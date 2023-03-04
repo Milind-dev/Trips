@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-image: url(""); */
+  background-color: blue;
+  height: 15em;
+}
+.headerInfo {
+  display: flex;
+}
+.Tripcom {
+  color: white;
+  font-size: 2em;
+}
